@@ -1,0 +1,7 @@
+Number of users: 	8
+Total number of tasks: 	9
+Your total number of tasks: 	3
+Percentage of tasks assigned to you: 	11.11
+Percentage of tasks assigned to you that have been completed: 	11.11
+Percentage of tasks assigned to you that have not been completed: 	88.89
+The percentage of the tasks assigned to you that have not yet been completed and are overdue: 	66.67

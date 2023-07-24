@@ -1,0 +1,9 @@
+admin;Add functionality to task manager ad1;Add additional options and refactor the code.;2022-12-01;2022-11-22;No
+sxa2023;Add functionality to task manager sa1;Add additional options and refactor the code.;2022-12-01;2022-11-22;No
+admin;Add functionality to task manager ad2;Add additional options and refactor the code.;2022-12-01;2022-11-22;No
+sxa2023;Add functionality to task sa2ghy;Add additional options.;2022-12-01;2022-11-22;Yes
+admin;Add functionality to task manager ad3;Add additional options and refactor the code.;2022-12-01;2022-11-22;No
+sadia;Add functionality to task manager sad1;Add additional options and refactor the code.;2022-12-01;2022-11-22;No
+sadia;Add functionality ;Add additional option sad3;2022-12-01;2022-11-22;No
+sadia;Add functionality to task sa2ghy;Add additional options.;2023-04-04;2022-11-22;Yes;task edited on 2023-03-28
+sxa2023;dafkkdf;dkjd ld lf;2023-03-03;2022-11-22;No;task edited on 2023-03-28
